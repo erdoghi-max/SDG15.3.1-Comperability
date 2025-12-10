@@ -1,6 +1,6 @@
 # Supplementary Materials: EU LDN Data Analysis
 
-This repository contains the source code and supplementary materials for the analysis presented in the article **"[Makalenizin Başlığını Buraya Yazın]"**.
+This repository contains the source code and supplementary materials for the analysis presented in the article 'Analysis of Multi-Source Default Data of Land Productivity for SDG 15.3.1 assessment on EU drylands"
 
 The analysis focuses on Land Productivity Dynamics (LPD) and SDG 15.3.1 indicator agreement statistics across the European Union.
 
